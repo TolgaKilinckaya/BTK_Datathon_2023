@@ -1,27 +1,27 @@
 # BTK Datathon 2023
 
-Bu depo, BTK Datathon 2023 için oluşturulmuş projeleri içerir. Projeler, veri bilimi ve makine öğrenmesi tekniklerini kullanarak çeşitli problemleri çözmeyi amaçlar.
+This repository contains projects created for BTK Datathon 2023. The projects aim to solve various problems using data science and machine learning techniques.
 
-## İçerik
+## Contents
 
-Depo, çeşitli Jupyter notebook dosyalarını içerir. Her bir notebook, belirli bir problemi çözmek için adım adım bir süreci takip eder.
+The repository contains various Jupyter notebook files. Each notebook follows a step-by-step process to solve a specific problem.
 
-## Başlarken
+## Getting Started
 
-Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
+To run this project, follow the steps below:
 
-1. Repoyu klonlayın veya indirin.
-2. Gerekli Python kütüphanelerini yükleyin.
-3. İlgili Jupyter notebook dosyasını açın ve hücreleri çalıştırın.
+1. Clone or download the repository.
+2. Install the necessary Python libraries.
+3. Open the relevant Jupyter notebook file and run the cells.
 
-## Gereksinimler
+## Requirements
 
-Bu proje aşağıdaki Python kütüphanelerini gerektirir:
+This project requires the following Python libraries:
 
 - pandas
 - numpy
 - scikit-learn
 
-## Lisans
+## License
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+This project is licensed under the MIT license. For more information, see the `LICENSE` file.
